@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>Bài 03. Nhận biết các từ khoá trong php</title>
 </head>
 <body>
 	<?php
