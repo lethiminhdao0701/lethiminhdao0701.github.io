@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>Bài 01. Trang cháo 1</title>
 </head>
 
 <body>
